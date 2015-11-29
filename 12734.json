@@ -1,0 +1,235 @@
+{
+	"number": "12734",
+	"name": "NARAYANADRI EXP",
+	"route": [{
+		"Distance": "0",
+		"Halt Time(In minutes)": "--",
+		"Station Code": "SC",
+		"Station Name": "SECUNDERABAD JN",
+		"Arrival Time": "--",
+		"SNo": "1",
+		"Departure Time": "18:05",
+		"Day": "1",
+		"Route Number": "1"
+	}, {
+		"Distance": "34",
+		"Halt Time(In minutes)": "02:00",
+		"Station Code": "BN",
+		"Station Name": "BIBINAGAR",
+		"Arrival Time": "18:28",
+		"SNo": "2",
+		"Departure Time": "18:30",
+		"Day": "1",
+		"Route Number": "1"
+	}, {
+		"Distance": "76",
+		"Halt Time(In minutes)": "02:00",
+		"Station Code": "RMNP",
+		"Station Name": "RAMANNAPETA",
+		"Arrival Time": "19:08",
+		"SNo": "3",
+		"Departure Time": "19:10",
+		"Day": "1",
+		"Route Number": "1"
+	}, {
+		"Distance": "85",
+		"Halt Time(In minutes)": "02:00",
+		"Station Code": "CTYL",
+		"Station Name": "CHITYALA",
+		"Arrival Time": "19:18",
+		"SNo": "4",
+		"Departure Time": "19:20",
+		"Day": "1",
+		"Route Number": "1"
+	}, {
+		"Distance": "110",
+		"Halt Time(In minutes)": "01:00",
+		"Station Code": "NLDA",
+		"Station Name": "NALGONDA",
+		"Arrival Time": "19:38",
+		"SNo": "5",
+		"Departure Time": "19:39",
+		"Day": "1",
+		"Route Number": "1"
+	}, {
+		"Distance": "148",
+		"Halt Time(In minutes)": "01:00",
+		"Station Code": "MRGA",
+		"Station Name": "MIRYALAGUDA",
+		"Arrival Time": "20:03",
+		"SNo": "6",
+		"Departure Time": "20:04",
+		"Day": "1",
+		"Route Number": "1"
+	}, {
+		"Distance": "169",
+		"Halt Time(In minutes)": "02:00",
+		"Station Code": "VNUP",
+		"Station Name": "VISHNUPURAM",
+		"Arrival Time": "20:16",
+		"SNo": "7",
+		"Departure Time": "20:18",
+		"Day": "1",
+		"Route Number": "1"
+	}, {
+		"Distance": "186",
+		"Halt Time(In minutes)": "02:00",
+		"Station Code": "NDKD",
+		"Station Name": "NADIKUDI JN",
+		"Arrival Time": "20:40",
+		"SNo": "8",
+		"Departure Time": "20:42",
+		"Day": "1",
+		"Route Number": "1"
+	}, {
+		"Distance": "208",
+		"Halt Time(In minutes)": "02:00",
+		"Station Code": "PGRL",
+		"Station Name": "PIDUGURALLA",
+		"Arrival Time": "21:08",
+		"SNo": "9",
+		"Departure Time": "21:10",
+		"Day": "1",
+		"Route Number": "1"
+	}, {
+		"Distance": "239",
+		"Halt Time(In minutes)": "01:00",
+		"Station Code": "SAP",
+		"Station Name": "SATTENAPALLE",
+		"Arrival Time": "21:40",
+		"SNo": "10",
+		"Departure Time": "21:41",
+		"Day": "1",
+		"Route Number": "1"
+	}, {
+		"Distance": "282",
+		"Halt Time(In minutes)": "15:00",
+		"Station Code": "GNT",
+		"Station Name": "GUNTUR JN",
+		"Arrival Time": "22:55",
+		"SNo": "11",
+		"Departure Time": "23:10",
+		"Day": "1",
+		"Route Number": "1"
+	}, {
+		"Distance": "307",
+		"Halt Time(In minutes)": "01:00",
+		"Station Code": "TEL",
+		"Station Name": "TENALI JN",
+		"Arrival Time": "00:01",
+		"SNo": "12",
+		"Departure Time": "00:02",
+		"Day": "2",
+		"Route Number": "1"
+	}, {
+		"Distance": "349",
+		"Halt Time(In minutes)": "01:00",
+		"Station Code": "BPP",
+		"Station Name": "BAPATLA",
+		"Arrival Time": "00:34",
+		"SNo": "13",
+		"Departure Time": "00:35",
+		"Day": "2",
+		"Route Number": "1"
+	}, {
+		"Distance": "364",
+		"Halt Time(In minutes)": "01:00",
+		"Station Code": "CLX",
+		"Station Name": "CHIRALA",
+		"Arrival Time": "00:47",
+		"SNo": "14",
+		"Departure Time": "00:48",
+		"Day": "2",
+		"Route Number": "1"
+	}, {
+		"Distance": "414",
+		"Halt Time(In minutes)": "01:00",
+		"Station Code": "OGL",
+		"Station Name": "ONGOLE",
+		"Arrival Time": "01:32",
+		"SNo": "15",
+		"Departure Time": "01:33",
+		"Day": "2",
+		"Route Number": "1"
+	}, {
+		"Distance": "442",
+		"Halt Time(In minutes)": "01:00",
+		"Station Code": "SKM",
+		"Station Name": "SINGARAYAKONDA",
+		"Arrival Time": "01:55",
+		"SNo": "16",
+		"Departure Time": "01:56",
+		"Day": "2",
+		"Route Number": "1"
+	}, {
+		"Distance": "480",
+		"Halt Time(In minutes)": "01:00",
+		"Station Code": "KVZ",
+		"Station Name": "KAVALI",
+		"Arrival Time": "02:21",
+		"SNo": "17",
+		"Departure Time": "02:22",
+		"Day": "2",
+		"Route Number": "1"
+	}, {
+		"Distance": "530",
+		"Halt Time(In minutes)": "01:00",
+		"Station Code": "NLR",
+		"Station Name": "NELLORE",
+		"Arrival Time": "02:57",
+		"SNo": "18",
+		"Departure Time": "02:58",
+		"Day": "2",
+		"Route Number": "1"
+	}, {
+		"Distance": "568",
+		"Halt Time(In minutes)": "02:00",
+		"Station Code": "GDR",
+		"Station Name": "GUDUR JN",
+		"Arrival Time": "04:13",
+		"SNo": "19",
+		"Departure Time": "04:15",
+		"Day": "2",
+		"Route Number": "1"
+	}, {
+		"Distance": "604",
+		"Halt Time(In minutes)": "01:00",
+		"Station Code": "VKI",
+		"Station Name": "VENKATAGIRI",
+		"Arrival Time": "04:42",
+		"SNo": "20",
+		"Departure Time": "04:43",
+		"Day": "2",
+		"Route Number": "1"
+	}, {
+		"Distance": "628",
+		"Halt Time(In minutes)": "01:00",
+		"Station Code": "KHT",
+		"Station Name": "SRI KALAHASTI",
+		"Arrival Time": "05:01",
+		"SNo": "21",
+		"Departure Time": "05:02",
+		"Day": "2",
+		"Route Number": "1"
+	}, {
+		"Distance": "651",
+		"Halt Time(In minutes)": "02:00",
+		"Station Code": "RU",
+		"Station Name": "RENIGUNTA JN",
+		"Arrival Time": "05:30",
+		"SNo": "22",
+		"Departure Time": "05:32",
+		"Day": "2",
+		"Route Number": "1"
+	}, {
+		"Distance": "661",
+		"Halt Time(In minutes)": "--",
+		"Station Code": "TPTY",
+		"Station Name": "TIRUPATI",
+		"Arrival Time": "06:05",
+		"SNo": "23",
+		"Departure Time": "--",
+		"Day": "2",
+		"Route Number": "1"
+	}]
+}
